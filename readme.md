@@ -14,8 +14,8 @@ You have to enter your date of birth and gender as promted.
 The submit button is the part where your input or your details have been feed to the application and then it display or output your Akan name.
 
 ## Links
-github: 
-Livelink: 
+github: https://github.com/Kyieng/akanNames.git
+Livelink: https://kyieng.github.io/akanNames/
 
 ## Lisences
 Copyright (c) 2023 Kyieng.
